@@ -16,7 +16,7 @@ pip install -r requirements.txt
 ## Executando o script
 
 ```
-python webscraping.py
+python main.py
 ```
 
 ## Autores
